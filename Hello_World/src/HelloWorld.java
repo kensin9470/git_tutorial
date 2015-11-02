@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("hotfix branch add");
 		System.out.println("master add sysout line");
+		System.out.println("add hotfix sysout line");
 	}
 
 }
